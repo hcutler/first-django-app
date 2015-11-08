@@ -1,0 +1,13 @@
+li a {
+    color: white;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat right bottom;
+/*    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;*/
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
