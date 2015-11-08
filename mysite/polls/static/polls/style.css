@@ -1,5 +1,28 @@
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
 li a {
     color: white;
+    position: center;
+    font-family: "Georgia", serif;
+}
+
+.title h1 {
+    color: white;
+    position: center;
+    font-family: "Georgia", serif;
+}
+
+.title p {
+    color: white;
+    position: center;
+    font-family: "Courier New", monospace;
+    font-style: italic;
 }
 
 body {
